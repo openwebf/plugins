@@ -1,0 +1,14 @@
+.DS_Store
+.dart_tool/
+
+.packages
+.pub/
+
+build/
+.idea/
+
+.flutter-plugins
+.flutter-plugins-dependencies
+
+macos/*.dSYM/
+ios/*.dSYM/

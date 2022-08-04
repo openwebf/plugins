@@ -1,10 +1,10 @@
 # plugins
-Plugins for Kraken maintained by the Kraken team
+Plugins for WebF maintained by the WebF team
 
 ## Issues
 
-Please file any issues, bugs, or feature requests in the [main kraken
-repo](https://github.com/openkraken/kraken/issues/new).
+Please file any issues, bugs, or feature requests in the [main webf
+repo](https://github.com/openwebf/webf/issues/new).
 
 Issues pertaining to this repository are [labeled
-"plugin"](https://github.com/openkraken/kraken/labels/plugin).
+"plugin"](https://github.com/openwebf/webf/labels/plugin).

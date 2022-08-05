@@ -1,0 +1,14 @@
+.DS_Store
+.dart_tool/
+
+.packages
+.pub/
+
+.idea/
+*.dSYM/
+
+Podfile.lock
+pubspec.lock
+
+.flutter-plugins
+.flutter-plugins-dependencies

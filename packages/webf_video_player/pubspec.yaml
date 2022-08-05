@@ -26,6 +26,4 @@ flutter:
         package: io.flutter.plugins.webfvideoplayer
         pluginClass: WebFVideoPlayerPlugin
       ios:
-        pluginClass: FLTKrakenVideoPlayerPlugin
-      macos:
-        pluginClass: FLTKrakenVideoPlayerPlugin
+        pluginClass: FLTWebFVideoPlayerPlugin

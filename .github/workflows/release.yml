@@ -12,7 +12,7 @@ on:
 
 env:
   flutterVersion: "2.2.0"
-  packages: "[\"kraken_animation_player\", \"kraken_camera\", \"kraken_video_player\", \"kraken_websocket\", \"kraken_webview\"]"
+  packages: "[\"webf_websocket\"]"
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:

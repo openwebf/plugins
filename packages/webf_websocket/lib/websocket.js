@@ -118,9 +118,7 @@
         webf.invokeModule('WebSocket', 'close', ([this.id, code, reason]));
       }
     }
-  
-    console.log(webf);
-    webf.addWebfModuleListener('WebSocket', function(moduleName, event, data) {
+    webf.addWebfModuleListener('WebSocket', function(event, data) {
       dispatchWebSocketEvent(data, event);
     });
   

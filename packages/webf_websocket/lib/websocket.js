@@ -120,10 +120,8 @@
     }
   
     console.log(webf);
-    webf.addWebfModuleListener(function(moduleName, event, data) {
-      if (moduleName === 'WebSocket') {
-        dispatchWebSocketEvent(data, event);
-      }
+    webf.addWebfModuleListener('WebSocket', function(moduleName, event, data) {
+      dispatchWebSocketEvent(data, event);
     });
   
     Object.defineProperty(globalThis, 'WebSocket', {

@@ -2,3 +2,4 @@
 .DS_Store
 
 pubspec.lock
+pubspec_overrides.yaml
